@@ -1,0 +1,7 @@
+{
+    "user":"everardo.ruiz1996@gmail.com",
+    "password":"secret123",
+    "passwordFailed":"failed",
+    "errorMessage":"Wrong email or password.",
+    "url":"https://todoist.com/"
+}
